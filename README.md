@@ -14,16 +14,16 @@ Im Gegensatz zu anderen Projekten der German Doctors ist die Tätigkeit für die
 
 1. **Dispensary**
 - klassische Ambulanz mit hohem Aufkommen an Kindern und schwangeren Frauen, aber auch alle Krankheitsbilder einer allgemeinmedizinischen Praxis
-- Chroniker / Spezialsprechstunden (HIV/ Tbc/Psychiatrie) werden überwiegend von den clinical officers (entsprechend dem assistant physician) und dem long-term doctor gesehen
+- Chroniker-/ Spezialsprechstunden (HIV/ Tbc/Psychiatrie) werden überwiegend von den clinical officers (entsprechend dem assistant physician) und dem long-term doctor gesehen
 
 <br><br><br><br><br><br>
 
 <img align="right" width="40%" src="IMG_4844.png">
 
 2. **College/ HIPs (Health Information Points)**
-- Begleiten und aktiv Lehren der College-„Studenten“ (Auszubildende für die medizinische Grundversorgung in ländlichen Gemeinden, also keine Nurses oder MedizinstudentInnen – sie verfügen über gute theoretische, aber sehr wenig praktische Vorkenntnisse und tun sich schwer, das Gelernte umzusetzen)
-- Unterstützen der Lehrer dieser Schüler mit Feedback und praktischen Tipps
-- Begleitung der HIPs: auch hier Lehren und unterstützen der SchülerInnen beim Besuch in den Dörfern - selten kleine Ambulanz vor Ort
+- Begleiten und aktiv Lehren der College-„students“ (Auszubildende für die medizinische Grundversorgung in ländlichen Gemeinden, also keine Nurses oder MedizinstudentInnen – sie verfügen über gute theoretische, aber sehr wenig praktische Vorkenntnisse und nehmen Unterstützung, das Gelernte umzusetzen, gerne an)
+- Assistenz der Lehrkräfte des College mit Feedback und praktischen Tipps
+- Begleitung der HIPs: auch hier lehren und unterstützen der SchülerInnen beim Besuch in den Dörfern - selten kleine Ambulanz vor Ort
 
 <br><br>
 
@@ -34,9 +34,9 @@ Im Gegensatz zu anderen Projekten der German Doctors ist die Tätigkeit für die
 
 <img align="right" width="40%" src="IMG_6601.png">
 
-Ein Monats- und Wochenplan klärt, welcher der beiden short-term doctors abwechselnd wo eingesetzt ist. Man arbeitet also eher selten - und nur nachmittags - gemeinsam in der Dispensary. Außerdem regelmäßige Treffen und Möglichkeit zum Austausch mit Vertretern aller an diesem Projekt beteiligten Personen. Kleine Vorträge , Notfallschulungen oder Themen, die im Praxisalltag auftauchen und im Sinne der SOPs von den short- term doctors aufgegriffen werden, sind sehr erwünscht. 
+Ein Monats- und Wochenplan klärt, welcher der beiden short-term doctors abwechselnd wo eingesetzt ist. Man arbeitet also eher selten - und nur nachmittags - gemeinsam in der Dispensary. Außerdem regelmäßige Treffen und Möglichkeit zum Austausch mit Vertretern aller an diesem Projekt beteiligten Personen. Kleine Vorträge, Notfallschulungen oder Themen, die im Praxisalltag auftauchen und im Sinne der SOPs von den short-term doctors aufgegriffen werden, sind sehr erwünscht. 
 
-Während der Schulferien (April, August, November bis Anfang Januar) gibt es keine Aktionen an den Schulen. Während der Collegeferien (ähnlich wie oben nur etwas kürzer) fällt der Block College – und damit das Lehren – weg.
+Während der Schulferien (April, August, November bis Anfang Januar) gibt es keine Aktionen (z.B. Impfungen) an den Schulen. Während der Collegeferien (ähnlich wie oben nur etwas kürzer) fällt der Block "College" – und damit das Lehren – weg.
 
 <br><br><br><br>
 
@@ -46,7 +46,7 @@ Während der Schulferien (April, August, November bis Anfang Januar) gibt es kei
 
 <img align="right" width="40%" src="IMG_4651.png">
 
-Notfälle sind eher die Ausnahme. Schwerer kranke Patienten oder Krankheitsbilder in fortgeschrittenen Stadien dagegen nicht:
+Notfälle sind eher die Ausnahme. Schwerer erkrankte PatientInnen oder Krankheitsbilder in fortgeschrittenen Stadien dagegen nicht:
 
 - Eklampsie nach der Geburt
 - Malaria bei Schwangeren und Kindern
@@ -55,14 +55,14 @@ Notfälle sind eher die Ausnahme. Schwerer kranke Patienten oder Krankheitsbilde
 - Komplizierte Pyelonephritis
 - Nicht oder ungenügend versorgte Traumata / Frakturen mit schweren Fehlstellungen
 - Chronische Ulcera und Ekzeme
-- Windpocken – die Diagnose beim ersten Kind eines Ausbruches schwierig… dann Blickdiagnose
+- Windpocken – die Diagnose ist beim ersten Kind eines Ausbruches schwierig… dann Blickdiagnose
 - Oberbauchtumor
 - Zungengrundtumor
 - Mastoiditis
 - Insekt im Gehörgang
-- Ellenbogenköpfchenluxation
+- Radiusköpfchenluxation
 - Extrauterinschwangerschaft
-- ED Diabetes mellitus bei einer 20 Jährigen Patientin
+- Erstdiagnose Diabetes mellitus bei einer 20 jährigen Patientin
 
 Hier helfen die erfahrenen Teammitglieder und /oder das blue book oder Amboss knowledge. Bei eingeschränkten diagnostischen Möglichkeiten und einer sehr überschaubaren Medikamentenliste bleibt dann doch oft nur die - mit Kosten verbundene – Weiterleitung in ein District hospital. Leider ist ein Follow-up in der Regel nicht möglich.
 
@@ -78,7 +78,7 @@ Immer war ich bemüht, die KollegInnen, ÜbersetzerInnen und StudentInnen spüre
 
 Fingerspitzengefühl, Improvisation und Geduld sind gefragt! Vorbereiten kann man sich kaum, wer aber auch sonst gewohnt ist zu lehren und die Ansprüche den Gegebenheiten anpassen kann, hat die große Chance, die andere Kultur wirklich kennen und lieben zu lernen!
 
-Gut zu wissen: alle in Schuluniform sind Schüler - alle anderen sind Lehrer (Tutoren)
+Gut zu wissen: alle in Schuluniform sind SchülerInnen - alle anderen sind LehrerInnen (Tutors)
 
 <br><br>
 
@@ -93,7 +93,7 @@ War während meines Aufenthaltes für mich leider nicht vorgesehen - nach Erzäh
 <br>
 
 ### Klima
-Zwei Regenzeiten: November/Dezember und April mit nicht selten überschwemmten Straßen, hoher Luftfeuchtigkeit bei Hitze …. aber grandioser Vegetation.
+Zwei Regenzeiten: November/Dezember und April mit nicht selten überschwemmten Straßen, hoher Luftfeuchtigkeit und Hitze …. aber grandioser Vegetation.
 
 Trockenperiode mit hohen Temperaturen von Januar bis April, im Juni/Juli für Kenianer „freezing“.
 
@@ -116,15 +116,13 @@ Jeder, der die Zusage zu diesem Projekt bekommt, kann und darf gespannt sein auf
 
 ### Unvergesslich
 
-Ein älterer Hypertoniker bei der Schulung auf die Frage: „What causes stress?”: “the worst that can happen to you is losing a loved one”.
-
-Der Hausbesuch bei einer über 100-jährigen Dame und die Frage meines CO: aber Pflegeheime sind doch umständlich, dann müssen die Angehörigen ja jeden Tag in dieses Heim kommen!
+Ein älterer Hypertoniker bei der Schulung auf die Frage: "What causes stress?": "the worst that can happen to you is losing a loved one".
 
 <p align="center">
   <img align="center" width="70%" src="IMG_6130.png">
 </p>
 <p align="center">
-  Der Hausbesuch bei einer über 100-jährigen Dame und die Frage meines CO: aber Pflegeheime<br>sind doch umständlich, dann müssen die Angehörigen ja jeden Tag in dieses Heim kommen!
+  Der Hausbesuch bei einer über 100-jährigen Dame und die Frage meines clinical officers: "aber<br>Pflegeheime sind doch umständlich, dann müssen die Angehörigen ja jeden Tag in dieses Heim kommen!"
 </p>
 
 <br><br>
@@ -133,5 +131,5 @@ Der Hausbesuch bei einer über 100-jährigen Dame und die Frage meines CO: aber 
   <img align="center" width="40%" src="IMG_6613.png">
 </p>
 <p align="center">
-  Die Wartezeit auf die Malaria-Testergebnisse der Schwester verkürzt mit einem Pflaster-Memory-Spiel
+  Die Wartezeit auf die Malaria-Testergebnisse der kleinen Schwester verkürzt mit einem Pflaster-Memory-Spiel
 </p>
