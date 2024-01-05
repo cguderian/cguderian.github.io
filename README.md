@@ -27,14 +27,18 @@ Im Gegensatz zu anderen Projekten der German Doctors ist die Tätigkeit für die
 
 <br><br>
 
-<img align="right" width="40%" src="IMG_6601.png">
-
 3. **Outreach**
 - Am ehesten vergleichbar mit den rolling clinics in anderen Projekten.
 
-Ein Monats- und Wochenplan klärt, welcher der beiden short-term doctors abwechselnd wo eingesetzt ist. Man arbeitet also eher selten - und nur nachmittags - gemeinsam in der Dispensary. Außerdem regelmäßige Treffen und Möglichkeit zum Austausch mit Vertretern aller an diesem Projekt beteiligten Personen. Kleine Vorträge , Notfallschulungen oder Themen, die im Praxisalltag auftauchen und im Sinne der SOPs von den short- term doctors aufgegriffen werden, sind sehr erwünscht. Während der Schulferien (April, August, November bis Anfang Januar) gibt es keine Aktionen an den Schulen. Während der Collegeferien (ähnlich wie oben nur etwas kürzer) fällt der Block College – und damit das Lehren – weg.
+<br><br>
 
-<br><br><br>
+<img align="right" width="40%" src="IMG_6601.png">
+
+Ein Monats- und Wochenplan klärt, welcher der beiden short-term doctors abwechselnd wo eingesetzt ist. Man arbeitet also eher selten - und nur nachmittags - gemeinsam in der Dispensary. Außerdem regelmäßige Treffen und Möglichkeit zum Austausch mit Vertretern aller an diesem Projekt beteiligten Personen. Kleine Vorträge , Notfallschulungen oder Themen, die im Praxisalltag auftauchen und im Sinne der SOPs von den short- term doctors aufgegriffen werden, sind sehr erwünscht. 
+
+Während der Schulferien (April, August, November bis Anfang Januar) gibt es keine Aktionen an den Schulen. Während der Collegeferien (ähnlich wie oben nur etwas kürzer) fällt der Block College – und damit das Lehren – weg.
+
+<br><br><br><br>
 
 ## Meine persönlichen Erfahrungen:
 
@@ -66,7 +70,7 @@ Ambulanzalltag sind aber überwiegend Beratungsanlässe wie Virusinfekte, Gastro
 
 Immer war ich bemüht, die KollegInnen, ÜbersetzerInnen und StudentInnen spüren zu lassen:
 
-<ins>Wir behandeln Patienten und nicht die Erkrankung</ins>
+***<ins>Wir behandeln Patienten und nicht die Erkrankung</ins>***
 
 <br><br>
 
@@ -86,10 +90,14 @@ War während meines Aufenthaltes für mich leider nicht vorgesehen - nach Erzäh
 
 ## Allgemeine Bemerkungen
 
+<br>
+
 ### Klima
 Zwei Regenzeiten: November/Dezember und April mit nicht selten überschwemmten Straßen, hoher Luftfeuchtigkeit bei Hitze …. aber grandioser Vegetation.
 
 Trockenperiode mit hohen Temperaturen von Januar bis April, im Juni/Juli für Kenianer „freezing“.
+
+<br><br>
 
 ### Unterkunft
 
@@ -104,6 +112,8 @@ In den Collegeferien gespenstig ruhig.
 
 Jeder, der die Zusage zu diesem Projekt bekommt, kann und darf gespannt sein auf eine außergewöhnliche Zeit. Und ich wünsche den KollegInnen, dass am Ende nicht nur der kurative Aspekt, sondern der Eindruck bleibt, einen kleinen Beitrag geleistet zu haben, die gesundheitliche Versorgung in der Region nachhaltig zu verbessern.
 
+<br><br>
+
 ### Unvergesslich
 
 Ein älterer Hypertoniker bei der Schulung auf die Frage: „What causes stress?”: “the worst that can happen to you is losing a loved one”.
@@ -116,6 +126,8 @@ Der Hausbesuch bei einer über 100-jährigen Dame und die Frage meines CO: aber 
 <p align="center">
   Der Hausbesuch bei einer über 100-jährigen Dame und die Frage meines CO: aber Pflegeheime<br>sind doch umständlich, dann müssen die Angehörigen ja jeden Tag in dieses Heim kommen!
 </p>
+
+<br><br>
 
 <p align="center">
   <img align="center" width="40%" src="IMG_6613.png">
