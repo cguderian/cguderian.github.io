@@ -34,7 +34,7 @@ Im Gegensatz zu anderen Projekten der German Doctors ist die Tätigkeit für die
 
 <br><br>
 
-** 3.Outreach**
+**3. Outreach**
 - Am ehesten vergleichbar mit den rolling clinics in anderen Projekten.
 
 <br>
