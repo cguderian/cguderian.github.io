@@ -1,7 +1,12 @@
 # Kilifi/ Bomani, November/ Dezember 2023 short-term German Doctor
 > Dr. med Christiane Guderian, FÄ für Allgemeinmedizin in Einzelpraxis in Freiburg
 
+<meta name="description" content="Bericht zum German Doctors programm in Kenia, 2023" />
+<meta property="og:title" content="German Doctors Kenia" />
+<meta property="og:url" content="https://cguderian.github.io/" />
+<meta property="og:description" content="German Doctors Kenia" />
 <meta property="og:image" content="thumbnail.png" />
+<meta property="og:type" content="article" />
 
 <br>
 
