@@ -1,11 +1,9 @@
 # Kilifi/ Bomani November/ Dezember 2023 short-term German Doctor
 > Dr. med Christiane Guderian, FÄ für Allgemeinmedizin in Einzelpraxis in Freiburg
 
-<html>
-  </br>
-</html>
+<br>
 
-### Aufbau des Programms
+## Aufbau des Programms
 Das Besondere an diesem Projekt hat sich mir erst einige Tage nach der Ankunft erschlossen, auch wenn man aufmerksam die Projektinfo studiert hat. Vielleicht liegt es an der Komplexität und Vielfalt der Einsatzmöglichkeiten….  die englischen Abkürzungen kommen erschwerend hinzu.
 
 Daher möchte ich diesen Bericht vor allem dafür nutzen, künftige KollegInnen einen weiteren Puzzlestein an die Hand zu geben.
@@ -18,9 +16,7 @@ Im Gegensatz zu anderen Projekten der German Doctors ist die Tätigkeit für die
 - klassische Ambulanz mit hohem Aufkommen an Kindern und schwangeren Frauen, aber auch alle Krankheitsbilder einer allgemeinmedizinischen Praxis
 - Chroniker / Spezialsprechstunden (HIV/ Tbc/Psychiatrie) werden überwiegend von den clinical officers (entsprechend dem assistant physician) und dem long-term doctor gesehen
 
-<html>
-  </br></br></br></br></br></br>
-</html>
+<br><br><br><br><br><br>
 
 <img align="right" width="40%" src="IMG_4844.png">
 
@@ -29,10 +25,7 @@ Im Gegensatz zu anderen Projekten der German Doctors ist die Tätigkeit für die
 - Unterstützen der Lehrer dieser Schüler mit Feedback und praktischen Tipps
 - Begleitung der HIPs: auch hier Lehren und unterstützen der SchülerInnen beim Besuch in den Dörfern - selten kleine Ambulanz vor Ort
 
-<html>
-  </br></br>
-</html>
-
+<br><br>
 
 <img align="right" width="40%" src="IMG_6601.png">
 
@@ -41,15 +34,14 @@ Im Gegensatz zu anderen Projekten der German Doctors ist die Tätigkeit für die
 
 Ein Monats- und Wochenplan klärt, welcher der beiden short-term doctors abwechselnd wo eingesetzt ist. Man arbeitet also eher selten - und nur nachmittags - gemeinsam in der Dispensary. Außerdem regelmäßige Treffen und Möglichkeit zum Austausch mit Vertretern aller an diesem Projekt beteiligten Personen. Kleine Vorträge , Notfallschulungen oder Themen, die im Praxisalltag auftauchen und im Sinne der SOPs von den short- term doctors aufgegriffen werden, sind sehr erwünscht. Während der Schulferien (April, August, November bis Anfang Januar) gibt es keine Aktionen an den Schulen. Während der Collegeferien (ähnlich wie oben nur etwas kürzer) fällt der Block College – und damit das Lehren – weg.
 
-<html>
-  </br></br></br></br>
-</html>
+<br><br><br>
+
+## Meine persönlichen Erfahrungen:
+
+### Dispensary
 
 <img align="right" width="40%" src="IMG_4651.png">
 
-### Meine persönlichen Erfahrungen:
-
-#### Dispensary
 Notfälle sind eher die Ausnahme. Schwerer kranke Patienten oder Krankheitsbilder in fortgeschrittenen Stadien dagegen nicht:
 
 - Eklampsie nach der Geburt
@@ -76,27 +68,37 @@ Immer war ich bemüht, die KollegInnen, ÜbersetzerInnen und StudentInnen spüre
 
 <ins>Wir behandeln Patienten und nicht die Erkrankung</ins>
 
-#### College/ HIPs
+<br><br>
+
+### College/ HIPs
 
 Fingerspitzengefühl, Improvisation und Geduld sind gefragt! Vorbereiten kann man sich kaum, wer aber auch sonst gewohnt ist zu lehren und die Ansprüche den Gegebenheiten anpassen kann, hat die große Chance, die andere Kultur wirklich kennen und lieben zu lernen!
 
 Gut zu wissen: alle in Schuluniform sind Schüler - alle anderen sind Lehrer (Tutoren)
 
-#### Outreach
+<br><br>
+
+### Outreach
 
 War während meines Aufenthaltes für mich leider nicht vorgesehen - nach Erzählungen des Kollegen aber in dörflichem Umfeld mit großem Patientenaufkommen überwiegend Basisversorgung.
 
-### Allgemeine Bemerkungen
+<br><br>
 
-#### Klima
+## Allgemeine Bemerkungen
+
+### Klima
 Zwei Regenzeiten: November/Dezember und April mit nicht selten überschwemmten Straßen, hoher Luftfeuchtigkeit bei Hitze …. aber grandioser Vegetation.
 
 Trockenperiode mit hohen Temperaturen von Januar bis April, im Juni/Juli für Kenianer „freezing“.
 
-#### Unterkunft
+### Unterkunft
+
 Guesthouse über dem Collegerestaurant inmitten des Collegegeländes: viel Trubel, katholische Gottesdienste, Moschee, Schulband, Basketball bis spät abends.
 
 In den Collegeferien gespenstig ruhig.
+<p align="center">
+  <img align="center" width="40%" src="FullSizeRender.png">
+</p>
 
 ### Resumee
 
@@ -108,3 +110,16 @@ Ein älterer Hypertoniker bei der Schulung auf die Frage: „What causes stress?
 
 Der Hausbesuch bei einer über 100-jährigen Dame und die Frage meines CO: aber Pflegeheime sind doch umständlich, dann müssen die Angehörigen ja jeden Tag in dieses Heim kommen!
 
+<p align="center">
+  <img align="center" width="70%" src="IMG_6130.png">
+</p>
+<p align="center">
+  Der Hausbesuch bei einer über 100-jährigen Dame und die Frage meines CO: aber Pflegeheime<br>sind doch umständlich, dann müssen die Angehörigen ja jeden Tag in dieses Heim kommen!
+</p>
+
+<p align="center">
+  <img align="center" width="40%" src="IMG_6613.png">
+</p>
+<p align="center">
+  Die Wartezeit auf die Malaria-Testergebnisse der Schwester verkürzt mit einem Pflaster-Memory-Spiel
+</p>
