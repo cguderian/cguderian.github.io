@@ -1,5 +1,7 @@
-# Kilifi/ Bomani November/ Dezember 2023 short-term German Doctor
+# Kilifi/ Bomani, November/ Dezember 2023 short-term German Doctor
 > Dr. med Christiane Guderian, FÄ für Allgemeinmedizin in Einzelpraxis in Freiburg
+
+<meta property="og:image" content="thumbnail.png" />
 
 <br>
 
@@ -12,7 +14,7 @@ Im Gegensatz zu anderen Projekten der German Doctors ist die Tätigkeit für die
 
 <img align="right" width="40%" src="IMG_5291.png">
 
-1. **Dispensary**
+**1. Dispensary**
 - klassische Ambulanz mit hohem Aufkommen an Kindern und schwangeren Frauen, aber auch alle Krankheitsbilder einer allgemeinmedizinischen Praxis
 - Chroniker-/ Spezialsprechstunden (HIV/ Tbc/Psychiatrie) werden überwiegend von den clinical officers (entsprechend dem assistant physician) und dem long-term doctor gesehen
 
@@ -20,25 +22,32 @@ Im Gegensatz zu anderen Projekten der German Doctors ist die Tätigkeit für die
 
 <img align="right" width="40%" src="IMG_4844.png">
 
-2. **College/ HIPs (Health Information Points)**
+**2. College/ HIPs (Health Information Points)**
 - Begleiten und aktiv Lehren der College-„students“ (Auszubildende für die medizinische Grundversorgung in ländlichen Gemeinden, also keine Nurses oder MedizinstudentInnen – sie verfügen über gute theoretische, aber sehr wenig praktische Vorkenntnisse und nehmen Unterstützung, das Gelernte umzusetzen, gerne an)
 - Assistenz der Lehrkräfte des College mit Feedback und praktischen Tipps
 - Begleitung der HIPs: auch hier lehren und unterstützen der SchülerInnen beim Besuch in den Dörfern - selten kleine Ambulanz vor Ort
 
 <br><br>
 
-3. **Outreach**
+**3.Outreach**
 - Am ehesten vergleichbar mit den rolling clinics in anderen Projekten.
 
-<br><br>
+<br>
 
-<img align="right" width="40%" src="IMG_6601.png">
+<p align="center">
+  <img align="center" width="60%" src="IMG_6601.png">
+</p>
+<p align="center">
+  Hand-out für Patienten mit Durchfall
+</p>
+
+<br>
 
 Ein Monats- und Wochenplan klärt, welcher der beiden short-term doctors abwechselnd wo eingesetzt ist. Man arbeitet also eher selten - und nur nachmittags - gemeinsam in der Dispensary. Außerdem regelmäßige Treffen und Möglichkeit zum Austausch mit Vertretern aller an diesem Projekt beteiligten Personen. Kleine Vorträge, Notfallschulungen oder Themen, die im Praxisalltag auftauchen und im Sinne der SOPs von den short-term doctors aufgegriffen werden, sind sehr erwünscht. 
 
 Während der Schulferien (April, August, November bis Anfang Januar) gibt es keine Aktionen (z.B. Impfungen) an den Schulen. Während der Collegeferien (ähnlich wie oben nur etwas kürzer) fällt der Block "College" – und damit das Lehren – weg.
 
-<br><br><br><br>
+<br><br><br>
 
 ## Meine persönlichen Erfahrungen:
 
