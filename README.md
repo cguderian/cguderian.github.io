@@ -38,14 +38,11 @@ Im Gegensatz zu anderen Projekten der German Doctors ist die Tätigkeit für die
 
 3. **Outreach**
 - Am ehesten vergleichbar mit den rolling clinics in anderen Projekten.
-- Ein Monats- und Wochenplan klärt, welcher der beiden short-term doctors abwechselnd wo eingesetzt ist. Man arbeitet also eher selten - und nur nachmittags - gemeinsam in der Dispensary.
-- Außerdem regelmäßige Treffen und Möglichkeit zum Austausch mit Vertretern aller an diesem Projekt beteiligten Personen.
-- Kleine Vorträge , Notfallschulungen oder Themen, die im Praxisalltag auftauchen und im Sinne der SOPs von den short- term doctors aufgegriffen werden, sind sehr erwünscht.
-- Während der Schulferien (April, August, November bis Anfang Januar) gibt es keine Aktionen an den Schulen.
-- Während der Collegeferien (ähnlich wie oben nur etwas kürzer) fällt der Block College – und damit das Lehren – weg.
+
+Ein Monats- und Wochenplan klärt, welcher der beiden short-term doctors abwechselnd wo eingesetzt ist. Man arbeitet also eher selten - und nur nachmittags - gemeinsam in der Dispensary. Außerdem regelmäßige Treffen und Möglichkeit zum Austausch mit Vertretern aller an diesem Projekt beteiligten Personen. Kleine Vorträge , Notfallschulungen oder Themen, die im Praxisalltag auftauchen und im Sinne der SOPs von den short- term doctors aufgegriffen werden, sind sehr erwünscht. Während der Schulferien (April, August, November bis Anfang Januar) gibt es keine Aktionen an den Schulen. Während der Collegeferien (ähnlich wie oben nur etwas kürzer) fällt der Block College – und damit das Lehren – weg.
 
 <html>
-  </br></br>
+  </br></br></br></br>
 </html>
 
 <img align="right" width="40%" src="IMG_4651.png">
