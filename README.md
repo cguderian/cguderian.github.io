@@ -1,6 +1,7 @@
 # Kilifi/ Bomani November/ Dezember 2023 short-term German Doctor
 > Dr. med Christiane Guderian, FÄ für Allgemeinmedizin in Einzelpraxis in Freiburg
 
+</br></br>
 
 ### Aufbau des Programms
 Das Besondere an diesem Projekt hat sich mir erst einige Tage nach der Ankunft erschlossen, auch wenn man aufmerksam die Projektinfo studiert hat. Vielleicht liegt es an der Komplexität und Vielfalt der Einsatzmöglichkeiten….  die englischen Abkürzungen kommen erschwerend hinzu.
@@ -9,14 +10,24 @@ Daher möchte ich diesen Bericht vor allem dafür nutzen, künftige KollegInnen 
 
 Im Gegensatz zu anderen Projekten der German Doctors ist die Tätigkeit für die short-term Ärzte dreigeteilt und je nach Einsatzzeitraum (siehe unten) unterschiedlich gewichtet:
 
+<img align="right" width="500" src="IMG_5291.png">
+
 1. **Dispensary**
 - klassische Ambulanz mit hohem Aufkommen an Kindern und schwangeren Frauen, aber auch alle Krankheitsbilder einer allgemeinmedizinischen Praxis
 - Chroniker / Spezialsprechstunden (HIV/ Tbc/Psychiatrie) werden überwiegend von den clinical officers (entsprechend dem assistant physician) und dem long-term doctor gesehen
+
+</br></br></br></br></br></br></br></br>
+
+<img align="right" width="500" src="IMG_4844.png">
 
 2. **College/ HIPs (Health Information Points)**
 - Begleiten und aktiv Lehren der College-„Studenten“ (Auszubildende für die medizinische Grundversorgung in ländlichen Gemeinden, also keine Nurses oder MedizinstudentInnen – sie verfügen über gute theoretische, aber sehr wenig praktische Vorkenntnisse und tun sich schwer, das Gelernte umzusetzen)
 - Unterstützen der Lehrer dieser Schüler mit Feedback und praktischen Tipps
 - Begleitung der HIPs: auch hier Lehren und unterstützen der SchülerInnen beim Besuch in den Dörfern - selten kleine Ambulanz vor Ort
+
+</br></br>
+
+<img align="right" width="500" src="IMG_6601.png">
 
 3. **Outreach**
 - Am ehesten vergleichbar mit den rolling clinics in anderen Projekten.
@@ -25,6 +36,8 @@ Im Gegensatz zu anderen Projekten der German Doctors ist die Tätigkeit für die
 - Kleine Vorträge , Notfallschulungen oder Themen, die im Praxisalltag auftauchen und im Sinne der SOPs von den short- term doctors aufgegriffen werden, sind sehr erwünscht.
 - Während der Schulferien (April, August, November bis Anfang Januar) gibt es keine Aktionen an den Schulen.
 - Während der Collegeferien (ähnlich wie oben nur etwas kürzer) fällt der Block College – und damit das Lehren – weg.
+
+</br></br>
 
 ### Meine persönlichen Erfahrungen:
 
