@@ -1,7 +1,9 @@
 # Kilifi/ Bomani November/ Dezember 2023 short-term German Doctor
 > Dr. med Christiane Guderian, FÄ für Allgemeinmedizin in Einzelpraxis in Freiburg
 
-</br></br>
+<html>
+  </br>
+</html>
 
 ### Aufbau des Programms
 Das Besondere an diesem Projekt hat sich mir erst einige Tage nach der Ankunft erschlossen, auch wenn man aufmerksam die Projektinfo studiert hat. Vielleicht liegt es an der Komplexität und Vielfalt der Einsatzmöglichkeiten….  die englischen Abkürzungen kommen erschwerend hinzu.
@@ -10,24 +12,29 @@ Daher möchte ich diesen Bericht vor allem dafür nutzen, künftige KollegInnen 
 
 Im Gegensatz zu anderen Projekten der German Doctors ist die Tätigkeit für die short-term Ärzte dreigeteilt und je nach Einsatzzeitraum (siehe unten) unterschiedlich gewichtet:
 
-<img align="right" width="500" src="IMG_5291.png">
+<img align="right" width="40%" src="IMG_5291.png">
 
 1. **Dispensary**
 - klassische Ambulanz mit hohem Aufkommen an Kindern und schwangeren Frauen, aber auch alle Krankheitsbilder einer allgemeinmedizinischen Praxis
 - Chroniker / Spezialsprechstunden (HIV/ Tbc/Psychiatrie) werden überwiegend von den clinical officers (entsprechend dem assistant physician) und dem long-term doctor gesehen
 
-</br></br></br></br></br></br></br></br>
+<html>
+  </br></br></br></br></br></br>
+</html>
 
-<img align="right" width="500" src="IMG_4844.png">
+<img align="right" width="40%" src="IMG_4844.png">
 
 2. **College/ HIPs (Health Information Points)**
 - Begleiten und aktiv Lehren der College-„Studenten“ (Auszubildende für die medizinische Grundversorgung in ländlichen Gemeinden, also keine Nurses oder MedizinstudentInnen – sie verfügen über gute theoretische, aber sehr wenig praktische Vorkenntnisse und tun sich schwer, das Gelernte umzusetzen)
 - Unterstützen der Lehrer dieser Schüler mit Feedback und praktischen Tipps
 - Begleitung der HIPs: auch hier Lehren und unterstützen der SchülerInnen beim Besuch in den Dörfern - selten kleine Ambulanz vor Ort
 
-</br></br>
+<html>
+  </br></br>
+</html>
 
-<img align="right" width="500" src="IMG_6601.png">
+
+<img align="right" width="40%" src="IMG_6601.png">
 
 3. **Outreach**
 - Am ehesten vergleichbar mit den rolling clinics in anderen Projekten.
@@ -37,7 +44,11 @@ Im Gegensatz zu anderen Projekten der German Doctors ist die Tätigkeit für die
 - Während der Schulferien (April, August, November bis Anfang Januar) gibt es keine Aktionen an den Schulen.
 - Während der Collegeferien (ähnlich wie oben nur etwas kürzer) fällt der Block College – und damit das Lehren – weg.
 
-</br></br>
+<html>
+  </br></br>
+</html>
+
+<img align="right" width="40%" src="IMG_4651.png">
 
 ### Meine persönlichen Erfahrungen:
 
@@ -89,3 +100,14 @@ Trockenperiode mit hohen Temperaturen von Januar bis April, im Juni/Juli für Ke
 Guesthouse über dem Collegerestaurant inmitten des Collegegeländes: viel Trubel, katholische Gottesdienste, Moschee, Schulband, Basketball bis spät abends.
 
 In den Collegeferien gespenstig ruhig.
+
+### Resumee
+
+Jeder, der die Zusage zu diesem Projekt bekommt, kann und darf gespannt sein auf eine außergewöhnliche Zeit. Und ich wünsche den KollegInnen, dass am Ende nicht nur der kurative Aspekt, sondern der Eindruck bleibt, einen kleinen Beitrag geleistet zu haben, die gesundheitliche Versorgung in der Region nachhaltig zu verbessern.
+
+### Unvergesslich
+
+Ein älterer Hypertoniker bei der Schulung auf die Frage: „What causes stress?”: “the worst that can happen to you is losing a loved one”.
+
+Der Hausbesuch bei einer über 100-jährigen Dame und die Frage meines CO: aber Pflegeheime sind doch umständlich, dann müssen die Angehörigen ja jeden Tag in dieses Heim kommen!
+
